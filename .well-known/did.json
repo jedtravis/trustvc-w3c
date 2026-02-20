@@ -1,0 +1,27 @@
+{
+  "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
+  "verificationMethod": [
+    {
+      "type": "Multikey",
+      "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1",
+      "controller": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
+      "publicKeyMultibase": "zDnaek2zzi5ZPSKp5YVCDoRf5z7joRn3VsUAbUUJ6zEH7Gr13"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1"
+  ],
+  "authentication": [
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1"
+  ],
+  "assertionMethod": [
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1"
+  ],
+  "capabilityInvocation": [
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1"
+  ],
+  "capabilityDelegation": [
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1"
+  ]
+}
