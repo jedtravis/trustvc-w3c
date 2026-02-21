@@ -3,25 +3,25 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://w3id.org/security/data-integrity/v2"
   ],
-  "id": "https://trustvc.github.io/did/credentials/statuslist/2",
+  "id": "urn:uuid:019c7f73-dd9b-7aa2-811a-924e0c88a915",
   "type": [
     "VerifiableCredential",
     "BitstringStatusListCredential"
   ],
-  "issuer": "did:web:trustvc.github.io:did:1",
+  "issuer": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
   "validFrom": "2024-10-02T08:49:52.435Z",
   "credentialSubject": {
-    "id": "https://trustvc.github.io/did/credentials/statuslist/2#list",
+    "id": "https://w3c-status-list.trustvc.cloud-ip.cc/status/revocation-list-1.json#list",
     "type": "BitstringStatusList",
     "statusPurpose": "revocation",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCoH32b7RoxvAB8gcAAAAAAAAAAAAAAAAAAACMFVeOQ9sAQAAA"
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAIC3AYbSVKsAQAAA"
   },
   "proof": {
     "type": "DataIntegrityProof",
-    "created": "2025-08-18T10:01:59Z",
-    "verificationMethod": "did:web:trustvc.github.io:did:1#multikey-1",
+    "created": "2026-02-21T09:07:05Z",
+    "verificationMethod": "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2",
     "cryptosuite": "ecdsa-sd-2023",
     "proofPurpose": "assertionMethod",
-    "proofValue": "u2V0BhVhAr4gZ0ottkgHMyEt_yXRVAk4X0Wkk8FxTfkoakxJyD5OuVHeV3iQsROScgcC7I-oFrViRKRkwj-6MJobHu-rxx1gjgCQD64164f_YGA46DzTkyUkvelLJ-HGMndfRN-1bs5Eqv0SEWEAQG51gUiCK0PTPYJRNT1MyFJDXzFPi3l2vUO9J1G8FJ0-stwTG-z4bg5tVdBWP8cr03VBsMDbp6FJlFTkPOWN9WEBx1PARBwNY4RW9lwGFPi7KBiuJ4EKixBJbJijnSS9W64UsSkBwbtelTPWVbSXe2C8za7fUx22UILxIDORVAQTqWEBHuWIyrsgfzH_WZxtPyuURY_WatNo5M8VMxJLQfFIpZJryy7BYd2wc62jXkn7Xg_yX0nwipL8d4j5TiTDOGEB5WEBrrsW9avQTbCDLxrqzaFO1nk_5iyr05YA-DLvvjeyjYaVjl9T0-tscYcp5AJNL7rVKIt27ziGRMCltVSS8s4QSoIQDBAYH"
+    "proofValue": "u2V0AhVhAXhste2YdigM3HEI9tzqfx9ZTJ6Jcie1uakrSxy1MkVTXluTXUaPHPJ-5Qun6WaIctPNokDJdYEg7ouQWrVpg91gjgCQDy_sJvKlTmM9PmnGdi9VG53HTFm0EABmopPzeKB6VHhpYIAQzatKMOmqTZxkKJPITRsMfL90nA7p1jGppTA1lfZnChFhAd5_Onjk_DDLmfyqDMLHP2vGnWFK5fZ3AWzPfaTgYas-yPGjvWc5fptwCjkAOtMNG41bu4XWPQVM-s4T7WS_GQFhAzZgExiQ43aagSRuQrjeFDe_7HBxc6AhXXISpizNuhSaq-GqRDUw8wWwQOelgEoBGcoxwYokA5Sqo-5LvhYfB81hAqqUVmZf7g9L49oUidtrb6dVPAJ84L4VoC5jpAbQ5eMP3XES9UuFYdIFg448xFwV0Mi4X4b5b3YMozGa8W0w1LlhA4fZLAnTvkenC4FhGqaxGxW71OuF_-gbfhdN1EXtg7ihFko8Ldse23Q6tMiwIiVViZS4Zd9HzBITmGMHrd7g57IJnL2lzc3VlcmovdmFsaWRGcm9t"
   }
 }
