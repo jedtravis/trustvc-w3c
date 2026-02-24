@@ -3,7 +3,7 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://w3id.org/security/data-integrity/v2"
   ],
-  "id": "urn:uuid:019c8db2-00c3-7009-a900-b7dc026e4b34",
+  "id": "urn:uuid:019c8dc9-590a-7009-a900-e54f01f49ce2",
   "type": [
     "VerifiableCredential",
     "BitstringStatusListCredential"
@@ -14,14 +14,14 @@
     "id": "https://w3c-status-list.trustvc.cloud-ip.cc/status/revocation-list-1.json#list",
     "type": "BitstringStatusList",
     "statusPurpose": "revocation",
-    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIKP_FzvDAjQAAAAAAAAAAAAAAAAAAADA2wD4ivucAEAAAA"
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCoJ3GWv9UxvAB8gcAAAAAAAAAAAAAAAAAAACMFSLxBZEAQAAA"
   },
   "proof": {
     "type": "DataIntegrityProof",
-    "created": "2026-02-24T03:29:39Z",
+    "created": "2026-02-24T03:55:08Z",
     "verificationMethod": "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2",
     "cryptosuite": "ecdsa-sd-2023",
     "proofPurpose": "assertionMethod",
-    "proofValue": "u2V0AhVhAzE60YDrvzAbS7uHPG4up6xrhEyFKgbZ_SO1WwHS0bFmmy1pfJJM7XiNmAA6--3GcjRHxGeItHZ8atZsQ68eWZlgjgCQDFh6GrwO9p0jh7Hycv3bshi1bFQyEl0b6G7D-Wgs6rqtYIFp4f-fLlGtqHhOiTuIw-uK-1myCfQOrMnKmqwh6OBPLhFhA_xP8NvaJFEpv4v4C__RbXjljn1XfQUjw46iZA6x1sCdRXt1DOxdMrXKiSPmC7shTqqUoHqXLnjFTApjbMjTuM1hAvk55pnoyea6EK2SzuFlTR4rdWZyleMAjmE6OjHHb-QWqHBebENTNICgsFw6oI6YMAk_4bs369LBJrWK2Sz0ooVhAzBl9SfYmwdwAoL98klwII4NJA36pDnxatJgOJbWbj1qc5jIhJH1-2Ja7i9JrwtFvUM7Tm7uh4L2mW-caPS7E91hAz0B02W2iL9yJ6fuDVBJ2e9QAk1_3AB57Qu57cI8tYXhC_MqU3D5oWpll7F49gB9aa9X_7AQH2blE89aY8G8SxoJnL2lzc3VlcmovdmFsaWRGcm9t"
+    "proofValue": "u2V0AhVhAAhwrdbxlpZnS4doNXLCqH-g2LjuMUH1NiLbmxqGXRFDoeVWs9B4lwgy2ObsQOj-pR2pPw3uCNLOql2UA3oPwG1gjgCQDrw2lf9e45lBzHhuoSrLNeI1TniAKt4-fMFXJ5sqWc8VYIJLYCGuRHQHW96rq6KFXPovxAHBs5s_qfUtPorWBl5AnhFhAUbrq8QHCyvL93cAJhzruIvVJHmEKAIrrNZ45e3JQfhTwYKmrbwgkcb9L55D2KqEDX8k1cgpom0H0Ra_ZvrgjdlhADW2xcoOAI47GckY7YpOeBt0SvjSTExLqff3YDtGB6GnExR2bKgmjS1Skb7v6O1-mLoalxG2iXuT3ki5LqLTX91hAOAoVQ0EOYZZ7HYUakUKQd4HnmrqRGG5Hp32Hfdt4CtjO4kpti4fQI5K4wYnvYNjd2FgNv3Px3jSeIAte-U1VRFhA9dkfgVpp25ZQID5rWOGXCQ0psy_scq76ac5X9IKBB24uaQSI1_d2hbHFr5Ym2sWcbE8x_J0yI4DhaESn1-ZiPIJnL2lzc3VlcmovdmFsaWRGcm9t"
   }
 }
