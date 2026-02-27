@@ -1,17 +1,11 @@
 {
-  "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
+  "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist",
   "verificationMethod": [
     {
       "type": "Multikey",
-      "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1",
-      "controller": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
-      "publicKeyMultibase": "zDnaek2zzi5ZPSKp5YVCDoRf5z7joRn3VsUAbUUJ6zEH7Gr13"
-    },
-    {
-      "type": "Multikey",
-      "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2",
-      "controller": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
-      "publicKeyMultibase": "zDnaeXfCfayNHoJWXUdD4A1o4A7WwcqxxCkHVk4MyzYeY7eNR"
+      "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1",
+      "controller": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist",
+      "publicKeyMultibase": "zDnaeWkuKeCvY2hEnUVvkLehkTdqoDHmsATirs7JgB4sdzBxx"
     }
   ],
   "@context": [
@@ -19,19 +13,15 @@
     "https://w3id.org/security/multikey/v1"
   ],
   "authentication": [
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1",
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2"
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1"
   ],
   "assertionMethod": [
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1",
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2"
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1"
   ],
   "capabilityInvocation": [
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1",
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2"
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1"
   ],
   "capabilityDelegation": [
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-1",
-    "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2"
+    "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1"
   ]
 }
