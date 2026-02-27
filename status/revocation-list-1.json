@@ -3,25 +3,25 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://w3id.org/security/data-integrity/v2"
   ],
-  "id": "urn:uuid:019c8dc9-590a-7009-a900-e54f01f49ce2",
+  "id": "urn:uuid:019c9e6c-ded8-7226-a65f-0ca336e1b122",
   "type": [
     "VerifiableCredential",
     "BitstringStatusListCredential"
   ],
-  "issuer": "did:web:w3c-status-list.trustvc.cloud-ip.cc",
+  "issuer": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist",
   "validFrom": "2024-10-02T08:49:52.435Z",
   "credentialSubject": {
     "id": "https://w3c-status-list.trustvc.cloud-ip.cc/status/revocation-list-1.json#list",
     "type": "BitstringStatusList",
     "statusPurpose": "revocation",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCoJ3GWv9UxvAB8gcAAAAAAAAAAAAAAAAAAACMFSLxBZEAQAAA"
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAIC3AYbSVKsAQAAA"
   },
   "proof": {
     "type": "DataIntegrityProof",
-    "created": "2026-02-24T03:55:08Z",
-    "verificationMethod": "did:web:w3c-status-list.trustvc.cloud-ip.cc#keys-2",
+    "created": "2026-02-27T09:27:41Z",
+    "verificationMethod": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1",
     "cryptosuite": "ecdsa-sd-2023",
     "proofPurpose": "assertionMethod",
-    "proofValue": "u2V0AhVhAAhwrdbxlpZnS4doNXLCqH-g2LjuMUH1NiLbmxqGXRFDoeVWs9B4lwgy2ObsQOj-pR2pPw3uCNLOql2UA3oPwG1gjgCQDrw2lf9e45lBzHhuoSrLNeI1TniAKt4-fMFXJ5sqWc8VYIJLYCGuRHQHW96rq6KFXPovxAHBs5s_qfUtPorWBl5AnhFhAUbrq8QHCyvL93cAJhzruIvVJHmEKAIrrNZ45e3JQfhTwYKmrbwgkcb9L55D2KqEDX8k1cgpom0H0Ra_ZvrgjdlhADW2xcoOAI47GckY7YpOeBt0SvjSTExLqff3YDtGB6GnExR2bKgmjS1Skb7v6O1-mLoalxG2iXuT3ki5LqLTX91hAOAoVQ0EOYZZ7HYUakUKQd4HnmrqRGG5Hp32Hfdt4CtjO4kpti4fQI5K4wYnvYNjd2FgNv3Px3jSeIAte-U1VRFhA9dkfgVpp25ZQID5rWOGXCQ0psy_scq76ac5X9IKBB24uaQSI1_d2hbHFr5Ym2sWcbE8x_J0yI4DhaESn1-ZiPIJnL2lzc3VlcmovdmFsaWRGcm9t"
+    "proofValue": "u2V0AhVhAhvPTqtl4kVYGiIRjmkw9dnVOFcwIJ9SDa_ZNAwXaA7jV24i_2BfM-Nz5jZykfEYxXrJNsJtooWPbyJVWVFQj-1gjgCQDd84s0q8AWLOGtQOeZF22ZHJRt-TIE2sK4RAgwTqTEXBYIAzqUrJEIP2cfTaQ6EgLs6xSjagrJlxeadB7mkSVA2mRhFhAaGdPuSvCI6RNrov330zGuliRh2D7FVR_nMigxvIybB8JFPwUfPN7FSt07NCZHtNt7DN_F_M0Vu6g1Bp7XdJfelhA2uh0Ium6UjgihOqmGwOZIgA7ELeQtutqa-fLCTq2T82CnHVS6_vhzjVBOo_AtG_6laIFwKeJ3D8QDyAN7Vf6sVhA0aYJPuYmBU80qADMKIhH3jHm7VRgw3EcxvZs-TcUg6P1usI37MSC_Kki4-aVwIL25UjKKWbv5m32kjhxyJbJplhAGnDaE1D7iI-FHR8ugMan1UlaiUc_YHQGtRSIPyK18WE702bV8ONoqSTOgGcvWK5YJGOj--vJ89YeJ2gZ8YrKKYJnL2lzc3VlcmovdmFsaWRGcm9t"
   }
 }
