@@ -1,11 +1,11 @@
 {
-  "id": "did:web:w3c-token.trustvc.cloud-ip.cc",
+  "id": "did:web:w3c-token.trustvc.cloud-ip.cc:did:token",
   "verificationMethod": [
     {
       "type": "Multikey",
-      "id": "did:web:w3c-token.trustvc.cloud-ip.cc#keys-1",
-      "controller": "did:web:w3c-token.trustvc.cloud-ip.cc",
-      "publicKeyMultibase": "zDnaerU42LNiEpQKvj4X9jLYycRicvLY9dWYkWajtgHB4va96"
+      "id": "did:web:w3c-token.trustvc.cloud-ip.cc:did:token#keys-1",
+      "controller": "did:web:w3c-token.trustvc.cloud-ip.cc:did:token",
+      "publicKeyMultibase": "zDnaeSGo78quzHKaiJppkkhpd5hyFghyYdFKWmA1AUwd5inws"
     }
   ],
   "@context": [
@@ -13,15 +13,15 @@
     "https://w3id.org/security/multikey/v1"
   ],
   "authentication": [
-    "did:web:w3c-token.trustvc.cloud-ip.cc#keys-1"
+    "did:web:w3c-token.trustvc.cloud-ip.cc:did:token#keys-1"
   ],
   "assertionMethod": [
-    "did:web:w3c-token.trustvc.cloud-ip.cc#keys-1"
+    "did:web:w3c-token.trustvc.cloud-ip.cc:did:token#keys-1"
   ],
   "capabilityInvocation": [
-    "did:web:w3c-token.trustvc.cloud-ip.cc#keys-1"
+    "did:web:w3c-token.trustvc.cloud-ip.cc:did:token#keys-1"
   ],
   "capabilityDelegation": [
-    "did:web:w3c-token.trustvc.cloud-ip.cc#keys-1"
+    "did:web:w3c-token.trustvc.cloud-ip.cc:did:token#keys-1"
   ]
 }
