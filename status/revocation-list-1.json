@@ -3,7 +3,7 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://w3id.org/security/data-integrity/v2"
   ],
-  "id": "urn:uuid:019cf07d-f657-788c-ab2b-a646203d31ee",
+  "id": "urn:uuid:019cf0de-7b64-7227-8a5d-b681d070ea06",
   "type": [
     "VerifiableCredential",
     "BitstringStatusListCredential"
@@ -14,14 +14,14 @@
     "id": "https://w3c-status-list.trustvc.cloud-ip.cc/status/revocation-list-1.json#list",
     "type": "BitstringStatusList",
     "statusPurpose": "revocation",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAIC3AYbSVKsAQAAA"
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIKP_FzvDAjQAAAAAAAAAAAAAAAAAAADA2wD4ivucAEAAAA"
   },
   "proof": {
     "type": "DataIntegrityProof",
-    "created": "2026-03-15T07:55:12Z",
+    "created": "2026-03-15T09:40:38Z",
     "verificationMethod": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1",
     "cryptosuite": "ecdsa-sd-2023",
     "proofPurpose": "assertionMethod",
-    "proofValue": "u2V0AhVhAx6T6fwWgRo3vZshE36UjPwv3RaVVdMhJ86mZ35VFHZZJbjDEe3oUDMiiCG-zqD7VXBK4aXxdGiwR1dGcjL5H5VgjgCQCAY6kzq3zN_8p834-22X9_uTaVMtyS4eV59B5WUEDmWRYIMwowRF2g1jYieW8Rbl1RVzZYIB7XLDy-AvYCx2YAniFhFhAK9hhBpQhf4pCCas_HZTRPYW7c8wrhUiEKAIsVEz0kkHatTTMYLXaEibOCoi4x1ZsKLvj8qdW0HPwvg9HvI4nyVhAk91N2sxWm9gcSazaYDyB_sqAARDY6hdoRGhr2sBl_6thnVNfhYzmSgh4Oy-UajYfsjuKE8iMh3fzO0HxmzagSFhAVNH-QVqujwAPzhwNbZf8Ky87H8L_s-WrWA4RaUWaW7mO9n_BtcOK_rPKiLtvXyCGFPgqTtpIHsON2QYWpQLiAFhAv509qjLL93ZvhD9g0sUXZPS6meA9W6ofiiGVSm-TApXp1V2M9gspqC4Fam01c5MtBgxz0ujYpcwLvnX-ODTfboJnL2lzc3VlcmovdmFsaWRGcm9t"
+    "proofValue": "u2V0AhVhAi38spKe-BWABsChu2onofuP2qMaKLyYR1VgBA4CAIyGdbX7PrlFqIPRiJsRbFyW5xQYaWqmg1ot8xJwHTHvGh1gjgCQDb0_YyRslsTtmhPr1FaRwfOzd8rjNecCjy2drnr5jAA9YIMu2xhtnMQzppmT1kmK_svoh2A1jOwcdQYlWOJ7Y6p83hFhA8d_YccMfVQaNtwMAJgE2s3m2CxjAa1C3poMwdQvT-pNeupbXqgXnb-rp43WmF4QaDWfZJR2RXpHlWy6_NetwUVhArhzP84Nx62y7jDbPgsyKC51c04whehtxqrHOiGvE-NATvETJIb3ysO9LNncn0FLT7TzUcB_NJUuwngJlWJlLVFhA7kXGD-fLmY6Y0eaGspLsLf51ytx27ir3KwyetcN0X45ik50yUHPXbmg0HkmbmcfgJTskecvNkPfdW5XqRoUir1hAOnd10CSQR0uke5R3V55tPC-GZxeayNHu6Hvk68oB-l53JFKxN6ion39xjkGjD0X3pEsUPApvTveMXYpggTImI4JnL2lzc3VlcmovdmFsaWRGcm9t"
   }
 }
