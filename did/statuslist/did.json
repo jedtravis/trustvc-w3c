@@ -5,7 +5,7 @@
       "type": "Multikey",
       "id": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1",
       "controller": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist",
-      "publicKeyMultibase": "zDnaeWkuKeCvY2hEnUVvkLehkTdqoDHmsATirs7JgB4sdzBxx"
+      "publicKeyMultibase": "zDnaecfC2jmEowAmJnLQjw1tV8vFRHzfq32ssPDu4a2wWwUr5"
     }
   ],
   "@context": [
