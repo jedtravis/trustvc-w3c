@@ -3,25 +3,25 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://w3id.org/security/data-integrity/v2"
   ],
-  "id": "urn:uuid:019c9e79-fc24-7226-a65f-3c0670ce3f9c",
+  "id": "urn:uuid:019cf07d-f657-788c-ab2b-a646203d31ee",
   "type": [
     "VerifiableCredential",
     "BitstringStatusListCredential"
   ],
   "issuer": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist",
-  "validFrom": "2024-10-02T08:49:52.435Z",
+  "validFrom": "2026-03-15T07:55:12.539Z",
   "credentialSubject": {
     "id": "https://w3c-status-list.trustvc.cloud-ip.cc/status/revocation-list-1.json#list",
     "type": "BitstringStatusList",
     "statusPurpose": "revocation",
-    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIKP_FzvDAjQAAAAAAAAAAAAAAAAAAADA2wD4ivucAEAAAA"
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAIC3AYbSVKsAQAAA"
   },
   "proof": {
     "type": "DataIntegrityProof",
-    "created": "2026-02-27T09:42:00Z",
+    "created": "2026-03-15T07:55:12Z",
     "verificationMethod": "did:web:w3c-status-list.trustvc.cloud-ip.cc:did:statuslist#keys-1",
     "cryptosuite": "ecdsa-sd-2023",
     "proofPurpose": "assertionMethod",
-    "proofValue": "u2V0AhVhA-qU22Di6S90RajBCwB5_HfaEEt0Zh6Inzzb73JxE_JopgipEVSRahXUo2vz-_yu2ROvKE39tT1zBMOOkra8SwlgjgCQDPTVtXAjHxZPvS2Pr2JvfUN1BlB6qPSasUIMy6K07qGxYIJ4geV5Ik2PwdIs9YBdA4m4vVP-nwtZfPpA25fQskK-ihFhAJb8F16ANqMiaVDHkLTDQ4U7GquEY-3sOXqfS-BLvbBe0DaWPt1G4NdkG7mAFmtuN-sV89cIRhdWuKBM_ZiTSDVhAFjYLRhNpeLsWhJMh0xD9gcZGtyLpriNTTKgrr_X2MCfpx7lK-jt2HBpr3Bm7r1htlVqY2vyI1ag0tZNaxiSZgVhA_sV7YeVHRLZVwl791IhrxmxbeJNbJurCIvNhmeCPhii1ot-ZttbbNcvVId8DHb1BSRPaejuCEGIUbCojLaY-iFhAOSUnxBuwQP77XBWnmDt5je2HfSWS8obaPYhGE1Skf3uGTTo6gqb_Dnu0Pculmi1Ssqqqtss6R8d54zsQlHffy4JnL2lzc3VlcmovdmFsaWRGcm9t"
+    "proofValue": "u2V0AhVhAx6T6fwWgRo3vZshE36UjPwv3RaVVdMhJ86mZ35VFHZZJbjDEe3oUDMiiCG-zqD7VXBK4aXxdGiwR1dGcjL5H5VgjgCQCAY6kzq3zN_8p834-22X9_uTaVMtyS4eV59B5WUEDmWRYIMwowRF2g1jYieW8Rbl1RVzZYIB7XLDy-AvYCx2YAniFhFhAK9hhBpQhf4pCCas_HZTRPYW7c8wrhUiEKAIsVEz0kkHatTTMYLXaEibOCoi4x1ZsKLvj8qdW0HPwvg9HvI4nyVhAk91N2sxWm9gcSazaYDyB_sqAARDY6hdoRGhr2sBl_6thnVNfhYzmSgh4Oy-UajYfsjuKE8iMh3fzO0HxmzagSFhAVNH-QVqujwAPzhwNbZf8Ky87H8L_s-WrWA4RaUWaW7mO9n_BtcOK_rPKiLtvXyCGFPgqTtpIHsON2QYWpQLiAFhAv509qjLL93ZvhD9g0sUXZPS6meA9W6ofiiGVSm-TApXp1V2M9gspqC4Fam01c5MtBgxz0ujYpcwLvnX-ODTfboJnL2lzc3VlcmovdmFsaWRGcm9t"
   }
 }
