@@ -5,7 +5,7 @@
       "type": "Multikey",
       "id": "did:web:w3c-token.trustvc.cloud-ip.cc:did:token#keys-1",
       "controller": "did:web:w3c-token.trustvc.cloud-ip.cc:did:token",
-      "publicKeyMultibase": "zDnaefoX8kZN5agxMK1U2kZR3AnUhDVc6YdiAkWCASpjDBAaL"
+      "publicKeyMultibase": "zDnaeZLVzphVK7PZWXAQsWbBbHJdZ5HPmhSWcaeVgBahhGrPX"
     }
   ],
   "@context": [
